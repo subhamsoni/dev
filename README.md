@@ -1,4 +1,4 @@
 dev
 ===
 
-My Personal Repoaitory
+My Personal Repository
